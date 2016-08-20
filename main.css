@@ -8,10 +8,15 @@ body {
 .logo {
   text-align: center;
   font-size: 50px;
-  position: fixed;
-  top: 43%;
-  left: 0;
-  width: 100%;
-  transform: translateY(-50%);
-  margin: 0;
+  margin: 100px 0;
+}
+
+.container {
+  max-width: 480px;
+  text-align: center;
+  margin: 0 auto 100px;
+}
+
+.container .sample {
+  margin: 0 auto 50px;
 }
