@@ -1,4 +1,4 @@
-# [サンロクゴマート](https://sanrokugomaato.github.io)
+# ![サンロクゴマート](logo.png)
 
 同人サークル「サンロクゴマート」の公式ホームページです。
 

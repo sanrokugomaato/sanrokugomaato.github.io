@@ -27,9 +27,12 @@ a:hover {
 
 .logo {
   text-align: center;
-  font-size: 37px;
   padding: 100px 0;
   margin: 0;
+}
+
+.logo img {
+  width: 500px;
 }
 
 .card {
