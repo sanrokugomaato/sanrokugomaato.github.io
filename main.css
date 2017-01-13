@@ -32,7 +32,8 @@ a:hover {
 }
 
 .logo img {
-  width: 500px;
+  width: 90%;
+  max-width: 400px;
 }
 
 .card {
