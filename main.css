@@ -92,8 +92,7 @@ a:hover {
 }
 
 .event-result img {
-  display: block;
-  float: left;
+  display: inline-block;
   margin-right: 1%;
   width: 32%;
 }
