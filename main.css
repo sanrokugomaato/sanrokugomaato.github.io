@@ -36,27 +36,6 @@ a:hover {
   max-width: 400px;
 }
 
-.card {
-  position: relative;
-  height: 100px;
-}
-
-.profile {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  float: left;
-  margin-right: 5px;
-}
-
-.card-text {
-  position: absolute;
-  left: 105px;
-  top: 50%;
-  transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-}
-
 .container {
   box-sizing: border-box;
   padding: 0 10px;
