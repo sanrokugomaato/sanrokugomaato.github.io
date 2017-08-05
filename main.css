@@ -36,6 +36,21 @@ a:hover {
   max-width: 400px;
 }
 
+.logo.game {
+  position: relative;
+}
+
+.logo.game img {
+  width: 96%;
+  max-width: 600px;
+}
+
+.logo.game img.title365 {
+  position: absolute;
+  width: 40%;
+  max-width: 200px;
+}
+
 .container {
   box-sizing: border-box;
   padding: 0 10px;
